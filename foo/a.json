@@ -1,0 +1,32 @@
+[
+  {
+    "id": "349sdfklgj3498",
+    "page_id": "999xcl",
+    "group_id": "cmxmmsja",
+    "created_at": "1951-01-01T12:02:08Z",
+    "updated_at": "1979-03-29T02:10:40Z",
+    "group": false,
+    "name": "Foo",
+    "description": "Lorem ipsum dolor sit amet, consectetur",
+    "position": 1,
+    "status": "operational",
+    "showcase": true,
+    "only_show_if_degraded": false,
+    "automation_email": "a@b-loc.io"
+  },
+  {
+    "id": "zxmc3f45389lxk",
+    "page_id": "mzc92",
+    "group_id": "zr3uiq",
+    "created_at": "1951-05-10T15:30:06Z",
+    "updated_at": "1988-03-14T15:30:10Z",
+    "group": false,
+    "name": "Bar",
+    "description": "Ut enim ad minima veniam, quis nostrum exercitationem",
+    "position": 1,
+    "status": "operational",
+    "showcase": true,
+    "only_show_if_degraded": false,
+    "automation_email": "c@d-loc.io"
+  }
+]
